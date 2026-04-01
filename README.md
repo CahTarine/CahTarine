@@ -1,60 +1,68 @@
-# Olá, eu sou a Camille Tarine! 👋
+# Olá, eu sou a Camille! ✨​
 
-> <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=7B2CBF&height=35&text=Sobre%20Mim&fontSize=20&fontAlignY=50" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17+-e015a0?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot_3-e015a0?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-e015a0?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-e015a0?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-e015a0?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-> Desenvolvedora de Software graduada em **Análise e Desenvolvimento de Sistemas**. Sou apaixonada por resolver problemas através do código e estou me **aprofundando no ecossistema Java** e Spring Boot.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=e015a0&height=35&text=Sobre%20Mim&fontSize=20&fontAlignY=50" />
+</p>
+
+> Graduada em **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento **Back-end Java**. Possuo experiência na construção de **APIs RESTful** utilizando Spring Boot, modelagem de dados SQL e aplicação de princípios de **Arquitetura Hexagonal**. Busco colaborar com times de alta performance entregando soluções eficientes e escaláveis.
 
 ---
 
-> ### 🛠️ Minha Pilha Tecnológica
-> **Backend:** Java, Spring Boot (Dados, Segurança, MVC), SQL (MySQL)
-> **Frontend:** React, TypeScript, HTML5, CSS3
-> **Ferramentas:** Git, GitHub, IntelliJ IDEA, Insomnia, Docker
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=e015a0&height=35&text=Habilidades%20Técnicas&fontSize=20&fontAlignY=50" />
+</p>
+
+> * **Linguagens:** Java (17+), TypeScript, JavaScript e SQL (PL/pgSQL).
+> * **Back-end:** Spring Boot 3, Spring Security, Spring Data JPA e JDBCTemplate.
+> * **Arquitetura:** APIs RESTful, Autenticação JWT e Arquitetura Hexagonal.
+> * **Banco de Dados:** PostgreSQL, MySQL e modelagem de dados com Functions e Procedures.
+> * **Qualidade:** Testes Unitários com JUnit 5 e Mockito, além de monitoramento com SonarQube.
 
 ---
 
-> ### 🚀 Projetos em Destaque
-> * 🎓 Graduada pela Universidade Pitágoras Unopar (Dez/2025)
-> * 💻 Desenvolvendo um **E-commerce de Moda Feminina** (Fullstack)
-> * 🇬🇧 Estudando Inglês diariamente (Foco em conversação técnica)
-> * 🐧 Usuária de Linux (ThinkPad T490s como estação de batalha)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=e015a0&height=35&text=Projetos%20em%20Destaque&fontSize=20&fontAlignY=50" />
+</p>
+
+> * **Quadro Kanban:** Gestão ágil de tarefas implementando Arquitetura Hexagonal e persistência robusta com PostgreSQL.
+> * **Carona:** Plataforma de mobilidade colaborativa com ciclo de vida CRUD completo, autenticação JWT e APIs externas como GoogleMaps e AbacatePay.
 
 ---
 
-### 📫 Vamos nos conectar?
-[LinkedIn](https://www.linkedin.com/in/SEU_PERFIL) | [Email](mailto:camille.tarine@gmail.com)
-### 📌 Projetos em Destaque
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=e015a0&height=35&text=Formação%20e%20Extras&fontSize=20&fontAlignY=50" />
+</p>
+
+> * 🎓 **ADS:** Universidade Pitágoras Unopar Anhanguera (Concluído em 2025).
+> * 🚀 **Full Stack:** 447 horas de formação intensiva pela **Generation Brasil**.
+> * 🇬🇧 **Idiomas:** Inglês (em aprendizado contínuo).
 
 ---
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=CahTarine&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CahTarine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=CahTarine&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CahTarine&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
 
 ### 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com/in/camille-tarine">
+    <img src="https://img.shields.io/badge/LinkedIn-e015a0?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:devcamilletarine@gmail.com">
+    <img src="https://img.shields.io/badge/Email-e015a0?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
