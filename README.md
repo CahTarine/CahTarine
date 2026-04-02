@@ -49,7 +49,7 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CahTarine&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CahTarine&theme=radical&cache=1" alt="GitHub Streak" />
 </p>
 
 ---
